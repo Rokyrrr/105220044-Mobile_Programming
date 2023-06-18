@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Article</string>
+    <string name="article_subtitle">Hasil Balapan MotoGP Jerman: Margin 0,064 Detik, Jorge Martin Sikat Pecco Bagnaia di Garis Finis</string>
+    <string name="article_text">
+        <b>18 Juni 2023, 19:50</b> Bola.net - Pembalap Prima Pramac Racing, Jorge Martin, sukses merebut kemenangan dalam balapan MotoGP Jerman di Sirkuit Sachsenring pada Minggu (18/6/2023).
+        \n     Ini adalah kemenangan perdana Ducati di Sachsenring sejak Casey Stoner pada 2008 lalu.
+        \n     Ini juga merupakan kemenangan Martin yang kedua di MotoGP, yakni setelah Seri Styria pada 2021 lalu.
+        \n     Pembalap asal Spanyol ini diikuti pembalap Ducati Lenovo Team, Pecco Bagnaia, di posisi kedua, dan pembalap Prima Pramac Racing, Johann Zarco, di posisi ketiga.
+        \n     Sementara itu posisi keempat dan kelima masing-masing ditempati oleh duet pembalap Mooney VR46 Racing Team, Marco Bezzecchi dan Luca Marini.
+        Hasil Balapan
+        1. Jorge Martin - Prima Pramac Racing - Ducati
+        2. Pecco Bagnaia - Ducati Lenovo Team - Ducati
+        3. Johann Zarco - Prima Pramac Racing - Ducati
+        4. Marco Bezzecchi - Mooney VR46 Racing Team - Ducati
+        5. Luca Marini - Mooney VR46 Racing Team - Ducati
+        6. Jack Miller - Red Bull KTM Factory Racing - KTM
+        7. Alex Marquez - Gresini Racing - Ducati
+        8. Enea Bastianini - Ducati Lenovo Team - Ducati
+        9. Fabio di Giannantonio - Gresini Racing - Ducati
+        10. Miguel Oliveira - CryptoDATA RNF - Aprilia
+        11. Augusto Fernandez - GASGAS Factory Racing Tech 3 - GASGAS
+        12. Franco Morbidelli - Monster Energy Yamaha - Yamaha
+        13. Fabio Quartararo - Monster Energy Yamaha - Yamaha
+        14. Takaaki Nakagami - LCR Honda Idemitsu - Honda
+        15. Raul Fernandez - CryptoDATA RNF - Aprilia
+        16. Aleix Espargaro - Aprilia Racing - Aprilia
+        17. Jonas Folger - GASGAS Factory Racing Tech 3 - KTM
+
+        Gagal finis:
+        Brad Binder - Red Bull KTM Factory Racing - KTM
+        Maverick Vinales - Aprilia Racing - Aprilia
+    </string>
+</resources>
